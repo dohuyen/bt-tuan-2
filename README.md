@@ -1,4 +1,4 @@
- #**I.Tìm hiểu các sử dụng VMWare WorkStation**
+#**I.Tìm hiểu các sử dụng VMWare WorkStation**
 
 ##**1. Cài đặt VMware Workstation trên Windowns**
 - Đăng ký và download bản Free Trial VMware Workstation 9.0 
